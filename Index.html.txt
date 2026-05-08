@@ -1,0 +1,171 @@
+
+
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🌸 My Fashion Business</title>
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Fashion Biz">
+<meta name="theme-color" content="#880E4F">
+<link rel="apple-touch-icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KICA8cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjEwMCIgZmlsbD0iIzg4MEU0RiIvPgogIDxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iMTAwIiBmaWxsPSJ1cmwoI2JnKSIvPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjRTkxRThDIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzg4MEU0RiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPCEtLSBQZXRhbHMgLS0+CiAgPGVsbGlwc2UgY3g9IjI1NiIgY3k9IjE2MCIgcng9IjM4IiByeT0iNzIiIGZpbGw9IiNGQ0U0RUMiIG9wYWNpdHk9IjAuOSIvPgogIDxlbGxpcHNlIGN4PSIyNTYiIGN5PSIzNTIiIHJ4PSIzOCIgcnk9IjcyIiBmaWxsPSIjRkNFNEVDIiBvcGFjaXR5PSIwLjkiLz4KICA8ZWxsaXBzZSBjeD0iMTYwIiBjeT0iMjU2IiByeD0iNzIiIHJ5PSIzOCIgZmlsbD0iI0ZDRTRFQyIgb3BhY2l0eT0iMC45Ii8+CiAgPGVsbGlwc2UgY3g9IjM1MiIgY3k9IjI1NiIgcng9IjcyIiByeT0iMzgiIGZpbGw9IiNGQ0U0RUMiIG9wYWNpdHk9IjAuOSIvPgogIDxlbGxpcHNlIGN4PSIxODgiIGN5PSIxODgiIHJ4PSIzOCIgcnk9IjcyIiBmaWxsPSIjRjQ4Q0I2IiBvcGFjaXR5PSIwLjg1IiB0cmFuc2Zvcm09InJvdGF0ZSg0NSAxODggMTg4KSIvPgogIDxlbGxpcHNlIGN4PSIzMjQiIGN5PSIxODgiIHJ4PSIzOCIgcnk9IjcyIiBmaWxsPSIjRjQ4Q0I2IiBvcGFjaXR5PSIwLjg1IiB0cmFuc2Zvcm09InJvdGF0ZSgtNDUgMzI0IDE4OCkiLz4KICA8ZWxsaXBzZSBjeD0iMTg4IiBjeT0iMzI0IiByeD0iMzgiIHJ5PSI3MiIgZmlsbD0iI0Y0OENCNiIgb3BhY2l0eT0iMC44NSIgdHJhbnNmb3JtPSJyb3RhdGUoLTQ1IDE4OCAzMjQpIi8+CiAgPGVsbGlwc2UgY3g9IjMyNCIgY3k9IjMyNCIgcng9IjM4IiByeT0iNzIiIGZpbGw9IiNGNDhDQjYiIG9wYWNpdHk9IjAuODUiIHRyYW5zZm9ybT0icm90YXRlKDQ1IDMyNCAzMjQpIi8+CiAgPCEtLSBDZW50ZXIgLS0+CiAgPGNpcmNsZSBjeD0iMjU2IiBjeT0iMjU2IiByPSI1NSIgZmlsbD0iI0Y5QTgyNSIvPgogIDxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMzgiIGZpbGw9IiNGRkQ1NEYiLz4KICA8dGV4dCB4PSIyNTYiIHk9IjI3MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIzMiIgZm9udC1mYW1pbHk9InNlcmlmIj7inKY8L3RleHQ+Cjwvc3ZnPg==">
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KICA8cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgcng9IjEwMCIgZmlsbD0iIzg4MEU0RiIvPgogIDxyZWN0IHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiByeD0iMTAwIiBmaWxsPSJ1cmwoI2JnKSIvPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJiZyIgeDE9IjAiIHkxPSIwIiB4Mj0iMSIgeTI9IjEiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjRTkxRThDIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzg4MEU0RiIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPCEtLSBQZXRhbHMgLS0+CiAgPGVsbGlwc2UgY3g9IjI1NiIgY3k9IjE2MCIgcng9IjM4IiByeT0iNzIiIGZpbGw9IiNGQ0U0RUMiIG9wYWNpdHk9IjAuOSIvPgogIDxlbGxpcHNlIGN4PSIyNTYiIGN5PSIzNTIiIHJ4PSIzOCIgcnk9IjcyIiBmaWxsPSIjRkNFNEVDIiBvcGFjaXR5PSIwLjkiLz4KICA8ZWxsaXBzZSBjeD0iMTYwIiBjeT0iMjU2IiByeD0iNzIiIHJ5PSIzOCIgZmlsbD0iI0ZDRTRFQyIgb3BhY2l0eT0iMC45Ii8+CiAgPGVsbGlwc2UgY3g9IjM1MiIgY3k9IjI1NiIgcng9IjcyIiByeT0iMzgiIGZpbGw9IiNGQ0U0RUMiIG9wYWNpdHk9IjAuOSIvPgogIDxlbGxpcHNlIGN4PSIxODgiIGN5PSIxODgiIHJ4PSIzOCIgcnk9IjcyIiBmaWxsPSIjRjQ4Q0I2IiBvcGFjaXR5PSIwLjg1IiB0cmFuc2Zvcm09InJvdGF0ZSg0NSAxODggMTg4KSIvPgogIDxlbGxpcHNlIGN4PSIzMjQiIGN5PSIxODgiIHJ4PSIzOCIgcnk9IjcyIiBmaWxsPSIjRjQ4Q0I2IiBvcGFjaXR5PSIwLjg1IiB0cmFuc2Zvcm09InJvdGF0ZSgtNDUgMzI0IDE4OCkiLz4KICA8ZWxsaXBzZSBjeD0iMTg4IiBjeT0iMzI0IiByeD0iMzgiIHJ5PSI3MiIgZmlsbD0iI0Y0OENCNiIgb3BhY2l0eT0iMC44NSIgdHJhbnNmb3JtPSJyb3RhdGUoLTQ1IDE4OCAzMjQpIi8+CiAgPGVsbGlwc2UgY3g9IjMyNCIgY3k9IjMyNCIgcng9IjM4IiByeT0iNzIiIGZpbGw9IiNGNDhDQjYiIG9wYWNpdHk9IjAuODUiIHRyYW5zZm9ybT0icm90YXRlKDQ1IDMyNCAzMjQpIi8+CiAgPCEtLSBDZW50ZXIgLS0+CiAgPGNpcmNsZSBjeD0iMjU2IiBjeT0iMjU2IiByPSI1NSIgZmlsbD0iI0Y5QTgyNSIvPgogIDxjaXJjbGUgY3g9IjI1NiIgY3k9IjI1NiIgcj0iMzgiIGZpbGw9IiNGRkQ1NEYiLz4KICA8dGV4dCB4PSIyNTYiIHk9IjI3MCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIzMiIgZm9udC1mYW1pbHk9InNlcmlmIj7inKY8L3RleHQ+Cjwvc3ZnPg==">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{--rose:#E91E8C;--rose-light:#F48CB6;--rose-pale:#FCE4EC;--rose-deep:#880E4F;--gold:#F9A825;--cream:#FFF8F0;--dark:#1A0A12;--card-bg:rgba(255,255,255,0.92);--shadow:0 8px 32px rgba(233,30,140,0.12)}
+  *{margin:0;padding:0;box-sizing:border-box}
+  body{font-family:'DM Sans',sans-serif;background:var(--cream);min-height:100vh;color:var(--dark);background-image:radial-gradient(circle at 10% 20%,rgba(233,30,140,0.08) 0%,transparent 50%),radial-gradient(circle at 90% 80%,rgba(249,168,37,0.07) 0%,transparent 50%)}
+  .header{background:linear-gradient(135deg,var(--rose-deep) 0%,var(--rose) 60%,var(--rose-light) 100%);padding:28px 20px 36px;text-align:center;position:relative;overflow:hidden}
+  .header h1{font-family:'Playfair Display',serif;font-size:28px;font-weight:800;color:white;text-shadow:0 2px 8px rgba(0,0,0,0.2);position:relative}
+  .header p{color:rgba(255,255,255,0.85);font-size:13px;margin-top:4px;position:relative;font-weight:500}
+  .stats-bar{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;padding:16px;margin-top:-16px;position:relative;z-index:2}
+  .stat-card{background:var(--card-bg);border-radius:16px;padding:14px 10px;text-align:center;box-shadow:var(--shadow);border:1px solid rgba(233,30,140,0.1)}
+  .stat-card .num{font-family:'Playfair Display',serif;font-size:20px;font-weight:800;color:var(--rose);line-height:1}
+  .stat-card .lbl{font-size:10px;color:#888;margin-top:4px;font-weight:600;text-transform:uppercase;letter-spacing:.5px}
+  .tabs{display:flex;gap:8px;padding:16px 16px 0;overflow-x:auto;scrollbar-width:none}
+  .tabs::-webkit-scrollbar{display:none}
+  .tab{flex-shrink:0;padding:10px 18px;border-radius:24px;border:2px solid var(--rose-pale);background:white;font-family:'DM Sans',sans-serif;font-size:13px;font-weight:600;color:#999;cursor:pointer;transition:all .25s}
+  .tab.active{background:var(--rose);border-color:var(--rose);color:white;box-shadow:0 4px 14px rgba(233,30,140,0.3)}
+  .content{padding:16px}
+  .section{display:none}
+  .section.active{display:block}
+  .form-card{background:var(--card-bg);border-radius:20px;padding:20px;box-shadow:var(--shadow);border:1px solid rgba(233,30,140,0.08);margin-bottom:16px}
+  .form-card h2{font-family:'Playfair Display',serif;font-size:16px;font-weight:700;color:var(--rose-deep);margin-bottom:16px}
+  .form-row{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-bottom:12px}
+  .form-row.full{grid-template-columns:1fr}
+  .field label{display:block;font-size:11px;font-weight:700;color:#888;margin-bottom:6px;text-transform:uppercase;letter-spacing:.5px}
+  .field input,.field select,.field textarea{width:100%;padding:11px 14px;border:1.5px solid #EEE;border-radius:12px;font-family:'DM Sans',sans-serif;font-size:14px;background:white;color:var(--dark);transition:border-color .2s;outline:none;appearance:none}
+  .field input:focus,.field select:focus,.field textarea:focus{border-color:var(--rose);box-shadow:0 0 0 3px rgba(233,30,140,0.08)}
+  .field textarea{resize:none;height:72px}
+  .btn-submit{width:100%;padding:14px;background:linear-gradient(135deg,var(--rose) 0%,var(--rose-deep) 100%);color:white;border:none;border-radius:14px;font-family:'DM Sans',sans-serif;font-size:15px;font-weight:700;cursor:pointer;box-shadow:0 6px 20px rgba(233,30,140,0.3);margin-top:4px}
+  .list-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}
+  .list-header h2{font-family:'Playfair Display',serif;font-size:16px;font-weight:700;color:var(--rose-deep)}
+  .count-badge{background:var(--rose-pale);color:var(--rose);font-size:12px;font-weight:700;padding:3px 10px;border-radius:20px}
+  .item-card{background:var(--card-bg);border-radius:16px;padding:16px;margin-bottom:10px;box-shadow:0 2px 12px rgba(0,0,0,0.05);border:1px solid rgba(233,30,140,0.08);animation:slideIn .3s ease;position:relative;overflow:hidden}
+  .item-card::before{content:'';position:absolute;left:0;top:0;bottom:0;width:4px;background:linear-gradient(to bottom,var(--rose),var(--rose-light));border-radius:16px 0 0 16px}
+  @keyframes slideIn{from{opacity:0;transform:translateY(-10px)}to{opacity:1;transform:translateY(0)}}
+  .item-top{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:8px}
+  .item-name{font-size:15px;font-weight:700;color:var(--dark)}
+  .item-price{font-size:15px;font-weight:800;color:var(--rose);font-family:'Playfair Display',serif}
+  .item-meta{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+  .tag{background:var(--rose-pale);color:var(--rose-deep);font-size:11px;font-weight:600;padding:3px 10px;border-radius:20px}
+  .tag.profit{background:#E8F5E9;color:#2E7D32}
+  .tag.customer{background:#E3F2FD;color:#1565C0}
+  .tag.date{background:#FFF3E0;color:#E65100}
+  .item-actions{display:flex;gap:8px;margin-top:10px;justify-content:flex-end}
+  .btn-del{padding:6px 14px;border-radius:10px;border:1.5px solid #FFCDD2;background:white;color:#E53935;font-family:'DM Sans',sans-serif;font-size:12px;font-weight:600;cursor:pointer}
+  .btn-export{width:100%;padding:13px;background:linear-gradient(135deg,var(--gold) 0%,#F57F17 100%);color:white;border:none;border-radius:14px;font-family:'DM Sans',sans-serif;font-size:15px;font-weight:700;cursor:pointer;box-shadow:0 6px 20px rgba(249,168,37,0.3);margin-top:8px;display:flex;align-items:center;justify-content:center;gap:8px}
+  .empty{text-align:center;padding:40px 20px;color:#BBB}
+  .empty .icon{font-size:48px;margin-bottom:12px}
+  .empty p{font-size:14px;font-weight:500}
+  .summary-row{display:flex;justify-content:space-between;align-items:center;padding:12px;background:#FAFAFA;border-radius:12px;border:1px solid #F0F0F0;margin-bottom:8px}
+  .summary-row .s-label{font-size:13px;font-weight:600;color:#666}
+  .summary-row .s-val{font-size:16px;font-weight:800;font-family:'Playfair Display',serif}
+  .toast{position:fixed;bottom:24px;left:50%;transform:translateX(-50%) translateY(80px);background:var(--rose-deep);color:white;padding:12px 24px;border-radius:24px;font-size:14px;font-weight:600;box-shadow:0 8px 24px rgba(0,0,0,0.2);transition:transform .4s cubic-bezier(.34,1.56,.64,1);z-index:999;white-space:nowrap;font-family:'DM Sans',sans-serif}
+  .toast.show{transform:translateX(-50%) translateY(0)}
+</style>
+</head>
+<body>
+<div class="header">
+  <h1>🌸 My Fashion Business</h1>
+  <p>Manage your pieces &amp; orders effortlessly</p>
+</div>
+<div class="stats-bar">
+  <div class="stat-card"><div class="num" id="stat-products">0</div><div class="lbl">Products</div></div>
+  <div class="stat-card"><div class="num" id="stat-orders">0</div><div class="lbl">Orders</div></div>
+  <div class="stat-card"><div class="num" id="stat-profit">0</div><div class="lbl">Profit KD</div></div>
+</div>
+<div class="tabs">
+  <button class="tab active" onclick="switchTab('products',this)">📦 Products</button>
+  <button class="tab" onclick="switchTab('orders',this)">🛍️ Orders</button>
+  <button class="tab" onclick="switchTab('customers',this)">👩 Customers</button>
+  <button class="tab" onclick="switchTab('export',this)">📊 Reports</button>
+</div>
+<div class="content">
+  <!-- Products -->
+  <div id="tab-products" class="section active">
+    <div class="form-card">
+      <h2>➕ Add New Piece</h2>
+      <div class="form-row">
+        <div class="field"><label>Item Name</label><input type="text" id="p-name" placeholder="e.g. Evening Dress"></div>
+        <div class="field"><label>Type (نوع القطعة)</label><select id="p-type"><option>Dress (فستان)</option><option>Abaya (عباية)</option><option>Blouse (بلوزة)</option><option>Pants (بنطلون)</option><option>Skirt (تنورة)</option><option>Jacket (جاكيت)</option><option>Shayla (شيلة)</option><option>Other (أخرى)</option></select></div>
+      </div>
+      <div class="form-row">
+        <div class="field"><label>Color (اللون)</label><input type="text" id="p-color" placeholder="Black, Pink..."></div>
+        <div class="field"><label>Size (المقاس)</label><select id="p-size"><option>XS</option><option>S</option><option selected>M</option><option>L</option><option>XL</option><option>XXL</option></select></div>
+      </div>
+      <div class="form-row">
+        <div class="field"><label>Cost Price — KD (سعر التكلفة)</label><input type="number" id="p-cost" placeholder="0.000" step="0.001"></div>
+        <div class="field"><label>Selling Price — KD (سعر البيع)</label><input type="number" id="p-price" placeholder="0.000" step="0.001"></div>
+      </div>
+      <div class="form-row">
+        <div class="field"><label>Quantity (الكمية)</label><input type="number" id="p-qty" value="1"></div>
+        <div class="field"><label>Notes (ملاحظات)</label><input type="text" id="p-note" placeholder="Optional"></div>
+      </div>
+      <button class="btn-submit" onclick="addProduct()">✨ Add Product</button>
+    </div>
+    <div class="list-header"><h2>All Products</h2><span class="count-badge" id="products-count">0 items</span></div>
+    <div id="products-list"></div>
+  </div>
+  <!-- Orders -->
+  <div id="tab-orders" class="section">
+    <div class="form-card">
+      <h2>🛍️ New Order (أوردر جديد)</h2>
+      <div class="form-row">
+        <div class="field"><label>Customer Name (العميلة)</label><input type="text" id="o-customer" placeholder="Customer name"></div>
+        <div class="field"><label>Phone (الجوال)</label><input type="tel" id="o-phone" placeholder="05XXXXXXXX"></div>
+      </div>
+      <div class="form-row full"><div class="field"><label>Product (المنتج)</label><select id="o-product"></select></div></div>
+      <div class="form-row">
+        <div class="field"><label>Quantity (الكمية)</label><input type="number" id="o-qty" value="1"></div>
+        <div class="field"><label>Sale Price — KD (سعر البيع)</label><input type="number" id="o-price" placeholder="0.000" step="0.001"></div>
+      </div>
+      <div class="form-row full"><div class="field"><label>Notes (ملاحظات)</label><textarea id="o-note" placeholder="Any extra details..."></textarea></div></div>
+      <button class="btn-submit" onclick="addOrder()">✅ Save Order</button>
+    </div>
+    <div class="list-header"><h2>Order History (السجل)</h2><span class="count-badge" id="orders-count">0 orders</span></div>
+    <div id="orders-list"></div>
+  </div>
+  <!-- Customers -->
+  <div id="tab-customers" class="section">
+    <div class="list-header"><h2>👩 Customers</h2><span class="count-badge" id="customers-count">0 customers</span></div>
+    <div id="customers-list"></div>
+  </div>
+  <!-- Reports -->
+  <div id="tab-export" class="section">
+    <div class="form-card"><h2>📊 Business Summary (ملخص البزنس)</h2><div id="summary-content"></div></div>
+    <button class="btn-export" onclick="exportCSV()">📥 Export Orders — CSV</button>
+    <button class="btn-export" style="margin-top:10px;background:linear-gradient(135deg,#7B1FA2,#4A148C)" onclick="exportProducts()">📥 Export Products — CSV</button>
+    <div class="form-card" style="margin-top:16px"><h2>⚠️ Danger Zone</h2><button class="btn-del" style="width:100%;padding:12px;font-size:14px" onclick="clearAll()">🗑️ Clear All Data (مسح كل البيانات)</button></div>
+  </div>
+</div>
+<div class="toast" id="toast"></div>
+<script>
+let products=JSON.parse(localStorage.getItem('biz_products')||'[]');
+let orders=JSON.parse(localStorage.getItem('biz_orders')||'[]');
+const KD=n=>'KD '+parseFloat(n).toFixed(3);
+function save(){localStorage.setItem('biz_products',JSON.stringify(products));localStorage.setItem('biz_orders',JSON.stringify(orders));updateStats()}
+function toast(msg){const t=document.getElementById('toast');t.textContent=msg;t.classList.add('show');setTimeout(()=>t.classList.remove('show'),2500)}
+function switchTab(tab,el){document.querySelectorAll('.section').forEach(s=>s.classList.remove('active'));document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));document.getElementById('tab-'+tab).classList.add('active');el.classList.add('active');if(tab==='orders')populateProductSelect();if(tab==='customers')renderCustomers();if(tab==='export')renderSummary()}
+function updateStats(){document.getElementById('stat-products').textContent=products.length;document.getElementById('stat-orders').textContent=orders.length;const profit=orders.reduce((s,o)=>{const p=products.find(p=>p.id==o.productId);return s+(o.price-(p?p.cost:0))*o.qty},0);document.getElementById('stat-profit').textContent=profit.toFixed(3)}
+function addProduct(){const name=document.getElementById('p-name').value.trim();const cost=parseFloat(document.getElementById('p-cost').value);const price=parseFloat(document.getElementById('p-price').value);if(!name||isNaN(cost)||isNaN(price)){toast('⚠️ Please fill in all required fields');return}products.push({id:Date.now(),name,type:document.getElementById('p-type').value,color:document.getElementById('p-color').value,size:document.getElementById('p-size').value,cost,price,qty:parseInt(document.getElementById('p-qty').value)||1,note:document.getElementById('p-note').value,date:new Date().toLocaleDateString()});save();renderProducts();['p-name','p-color','p-note','p-cost','p-price'].forEach(id=>document.getElementById(id).value='');document.getElementById('p-qty').value='1';toast('✅ Product added!')}
+function deleteProduct(id){if(!confirm('Delete this product?'))return;products=products.filter(p=>p.id!==id);save();renderProducts();toast('🗑️ Deleted')}
+function renderProducts(){const list=document.getElementById('products-list');document.getElementById('products-count').textContent=products.length+' items';if(!products.length){list.innerHTML='<div class="empty"><div class="icon">👗</div><p>No products yet — add your first piece!</p></div>';return}list.innerHTML=products.map(p=>`<div class="item-card"><div class="item-top"><div class="item-name">${p.name}</div><div class="item-price">${KD(p.price)}</div></div><div class="item-meta"><span class="tag">${p.type}</span>${p.color?`<span class="tag">${p.color}</span>`:''}<span class="tag">Size ${p.size}</span><span class="tag">Qty: ${p.qty}</span><span class="tag profit">Profit: ${KD(p.price-p.cost)}</span></div>${p.note?`<div style="font-size:12px;color:#999;margin-top:8px">📝 ${p.note}</div>`:''}<div class="item-actions"><button class="btn-del" onclick="deleteProduct(${p.id})">🗑️ Delete</button></div></div>`).join('')}
+function populateProductSelect(){const sel=document.getElementById('o-product');sel.innerHTML=products.length?products.map(p=>`<option value="${p.id}">${p.name} — ${KD(p.price)}</option>`).join(''):'<option>No products yet — add some first</option>';sel.onchange=function(){const p=products.find(p=>p.id==this.value);if(p)document.getElementById('o-price').value=p.price};if(products.length)document.getElementById('o-price').value=products[0].price}
+function addOrder(){const customer=document.getElementById('o-customer').value.trim();const price=parseFloat(document.getElementById('o-price').value);if(!customer||isNaN(price)){toast('⚠️ Please fill customer name & price');return}const productId=parseInt(document.getElementById('o-product').value);const p=products.find(p=>p.id==productId);orders.unshift({id:Date.now(),customer,phone:document.getElementById('o-phone').value,productId,productName:p?p.name:'Deleted product',qty:parseInt(document.getElementById('o-qty').value)||1,price,note:document.getElementById('o-note').value,date:new Date().toLocaleDateString(),time:new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})});save();renderOrders();['o-customer','o-phone','o-note'].forEach(id=>document.getElementById(id).value='');document.getElementById('o-qty').value='1';toast('🎉 Order saved!')}
+function deleteOrder(id){if(!confirm('Delete this order?'))return;orders=orders.filter(o=>o.id!==id);save();renderOrders();toast('🗑️ Deleted')}
+function renderOrders(){const list=document.getElementById('orders-list');document.getElementById('orders-count').textContent=orders.length+' orders';if(!orders.length){list.innerHTML='<div class="empty"><div class="icon">🛍️</div><p>No orders yet!</p></div>';return}list.innerHTML=orders.map(o=>{const p=products.find(p=>p.id==o.productId);const profit=p?(o.price-p.cost)*o.qty:null;return`<div class="item-card"><div class="item-top"><div class="item-name">👩 ${o.customer}</div><div class="item-price">${KD(o.price*o.qty)}</div></div><div class="item-meta"><span class="tag">${o.productName}</span><span class="tag">×${o.qty}</span><span class="tag date">${o.date} ${o.time}</span>${profit!==null?`<span class="tag profit">Profit: ${KD(profit)}</span>`:''}${o.phone?`<span class="tag customer">📱 ${o.phone}</span>`:''}</div>${o.note?`<div style="font-size:12px;color:#999;margin-top:8px">📝 ${o.note}</div>`:''}<div class="item-actions"><button class="btn-del" onclick="deleteOrder(${o.id})">🗑️ Delete</button></div></div>`}).join('')}
+function renderCustomers(){const map={};orders.forEach(o=>{if(!map[o.customer])map[o.customer]={name:o.customer,phone:o.phone,orders:0,total:0};map[o.customer].orders++;map[o.customer].total+=o.price*o.qty});const list=Object.values(map).sort((a,b)=>b.total-a.total);document.getElementById('customers-count').textContent=list.length+' customers';const el=document.getElementById('customers-list');if(!list.length){el.innerHTML='<div class="empty"><div class="icon">👩</div><p>No customers yet!</p></div>';return}el.innerHTML=list.map(c=>`<div class="item-card"><div class="item-top"><div class="item-name">👩 ${c.name}</div><div class="item-price">${KD(c.total)}</div></div><div class="item-meta"><span class="tag">${c.orders} order${c.orders>1?'s':''}</span>${c.phone?`<span class="tag customer">📱 ${c.phone}</span>`:''}</div></div>`).join('')}
+function renderSummary(){const revenue=orders.reduce((s,o)=>s+o.price*o.qty,0);const profit=orders.reduce((s,o)=>{const p=products.find(p=>p.id==o.productId);return s+(o.price-(p?p.cost:0))*o.qty},0);const stockCost=products.reduce((s,p)=>s+p.cost*p.qty,0);const customers=new Set(orders.map(o=>o.customer)).size;const rows=[['💰 Total Revenue (إجمالي الإيرادات)',KD(revenue),'#E91E8C'],['🌟 Total Profit (إجمالي الأرباح)',KD(profit),'#2E7D32'],['📦 Stock Cost (تكلفة المخزون)',KD(stockCost),'#1565C0'],['🛍️ Total Orders (عدد الأوردرات)',orders.length,'#E65100'],['👩 Customers (العملاء)',customers,'#6A1B9A'],['📋 Products (المنتجات)',products.length,'#00838F']];document.getElementById('summary-content').innerHTML=rows.map(([label,val,color])=>`<div class="summary-row"><span class="s-label">${label}</span><span class="s-val" style="color:${color}">${val}</span></div>`).join('')}
+function exportCSV(){if(!orders.length){toast('⚠️ No orders to export');return}const rows=[['Date','Customer','Phone','Product','Qty','Price (KD)','Total (KD)','Profit (KD)','Notes']];orders.forEach(o=>{const p=products.find(p=>p.id==o.productId);const profit=p?(o.price-p.cost)*o.qty:'';rows.push([o.date,o.customer,o.phone,o.productName,o.qty,o.price.toFixed(3),(o.price*o.qty).toFixed(3),profit!==''?profit.toFixed(3):'',o.note])});downloadCSV(rows,'orders.csv')}
+function exportProducts(){if(!products.length){toast('⚠️ No products to export');return}const rows=[['Name','Type','Color','Size','Cost (KD)','Price (KD)','Qty','Profit/Unit (KD)','Notes']];products.forEach(p=>rows.push([p.name,p.type,p.color,p.size,p.cost.toFixed(3),p.price.toFixed(3),p.qty,(p.price-p.cost).toFixed(3),p.note]));downloadCSV(rows,'products.csv')}
+function downloadCSV(rows,filename){const bom='\uFEFF';const csv=bom+rows.map(r=>r.map(v=>`"${v}"`).join(',')).join('\n');const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([csv],{type:'text/csv;charset=utf-8;'}));a.download=filename;a.click();toast('📥 Exported!')}
+function clearAll(){if(!confirm('This will delete ALL your data. Are you sure?'))return;products=[];orders=[];save();renderProducts();renderOrders();toast('🗑️ All data cleared')}
+updateStats();renderProducts();renderOrders();
+</script>
+</body>
+</html>
